@@ -1,7 +1,6 @@
 #   plot1.R Script File
 #   to be able to subset the data with ease a "sql"base approach will be easier
 #   Using the sqldf library can use sql Select statements over the source txt file
-
 library(sqldf)
 library(lubridate)
 
